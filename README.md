@@ -1,1 +1,1 @@
-# Module 23: INtermediate JavaScript, Interview Questions
+# Module 23: Intermediate JavaScript, Interview Questions
